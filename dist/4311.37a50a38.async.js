@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_melt_js_tpl_react_admin_antd_pro=self.webpackChunk_melt_js_tpl_react_admin_antd_pro||[]).push([[4311],{84311:(function(l,n,t){t.r(n),t.d(n,{default:function(){return a}});var s=t(7378),_=t(87004),u=t(86106);function a(){var e=(0,_.useOutletContext)();return(0,u.jsx)(_.Outlet,{context:e})}})}]);
